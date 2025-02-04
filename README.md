@@ -43,7 +43,7 @@ or
 		System.out.println("Hello World!");
 ```
 
-Now let's run our code! You should get a **Hello World!** message on your terminal.
+Now let's run our code! You should get a **Hello World!** message on your terminal
 
 ## Submit your assignment
 
